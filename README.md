@@ -1,46 +1,41 @@
-# Semester-Project
-I have developed a Library Management System, using the all concepts of Object Oriented Programming in Java which were taught to us during the class and lab. The program is totally console based. The Library Management System includes functions display students, display books, issue library card, issue book, add book, return book, my account etc.
 
-The concepts used in this program:
+📚 Library Management System (Java – Console Based)
 
-1- OOP [object-oriented programming]: All the basic OOP concepts from lab 1 till 3.
+A console-based Library Management System developed using Core Java and Object-Oriented Programming concepts.
+The project manages basic library operations such as book management, student management, and book issue/return functionality.
 
-2- Inheritance.
+🚀 Features
 
-3- Abstract class.
+Add and display books
+Add and display students
+Issue library card
+Issue and return books
+View student account details
+🛠️ Technologies Used
+Java (Core Java)
+Object-Oriented Programming (OOP)
+Collections (ArrayList)
+File Handling
+Exception Handling
 
-4- Encapsulation.
+🧠 OOP Concepts Implemented
+Encapsulation
+Inheritance
+Abstraction (Abstract Classes & Interfaces)
+Polymorphism
+Constructors
+Static members and methods
 
-5- Constructors: default and other needed constructors.
+🗂️ Data Storage
+Book.txt – Stores book records
+Student.txt – Stores student records
 
-6- Interface: The use of abstract class to achieve abstraction however the purpose of both interface and abstract classes are same.
+▶️ How to Run
 
-7- Static Data members and Methods.
+Clone the repository
+Open the project in Eclipse or IntelliJ
+Run the main class
+Use the console menu to perform operations
 
-8- Composition.
-
-9-Non primitive type return from function.
-
-10- Array list 
-
-11- File handling: (Book.txt, Student.txt)
-
-12-Exceptions and Error Handling.
-
-
-Classes
-
-•	Objectmodelpackage(main)
-
-•	Book
-
-•	Books
-
-•	RulesResultSet
-
-•	Library(extends Institute class)
-
-•	Student
-
-•	Institute(abstract class)
-
+📌 Note
+This is a console-based application focused on demonstrating Java fundamentals and OOP concepts.
